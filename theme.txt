@@ -22,7 +22,7 @@ terminal-box: "terminal_*.png"
 }
 
 + label {
-    text = "Select an OS"
+    text = ""
     font = "DejaVu Sans Regular 16"
     color = "#eff0f1"
     top = 30%-30
@@ -44,7 +44,7 @@ terminal-box: "terminal_*.png"
     item_icon_space = 5
     item_spacing = 35
     menu_pixmap_style = "boot_menu_*.png"
-    item_font = "DejaVu Sans Regular 16"
+    item_font = "DejaVu Sans Regular 14"
     item_color = "#757575"
     item_pixmap_style = "item_*.png"
     selected_item_color = "#ffffff"
